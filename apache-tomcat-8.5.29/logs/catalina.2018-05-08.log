@@ -1,0 +1,43 @@
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\conf\logging.properties
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29
+08-May-2018 19:15:52.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\temp
+08-May-2018 19:15:52.562 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+08-May-2018 19:15:52.562 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+08-May-2018 19:15:52.562 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+08-May-2018 19:15:53.175 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+08-May-2018 19:15:53.952 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-100"]
+08-May-2018 19:15:54.326 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-May-2018 19:15:54.352 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+08-May-2018 19:15:54.352 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-May-2018 19:15:54.352 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3147 ms
+08-May-2018 19:15:54.432 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-May-2018 19:15:54.432 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+08-May-2018 19:15:54.445 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs]
+08-May-2018 19:15:55.060 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\docs] has finished in [615] ms
+08-May-2018 19:15:55.061 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples]
+08-May-2018 19:15:55.435 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\examples] has finished in [374] ms
+08-May-2018 19:15:55.435 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager]
+08-May-2018 19:15:55.450 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\host-manager] has finished in [15] ms
+08-May-2018 19:15:55.450 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager]
+08-May-2018 19:15:55.510 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\manager] has finished in [60] ms
+08-May-2018 19:15:55.510 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT]
+08-May-2018 19:15:55.541 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\java_end\apache-tomcat-8.5.29\webapps\ROOT] has finished in [31] ms
+08-May-2018 19:15:55.541 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-100"]
+08-May-2018 19:15:55.557 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+08-May-2018 19:15:55.557 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1200 ms
